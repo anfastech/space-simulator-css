@@ -7,7 +7,7 @@ A user-friendly solar system explorer built entirely with CSS, providing an inte
 ## Tech Stack
 
 <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=html,css" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=html" alt="Tech Stack Icons" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" style="height: 48px; width: auto;" />
 </div>
 
