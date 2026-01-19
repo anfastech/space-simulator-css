@@ -73,20 +73,6 @@ space-simulator-css/
 3. Open `index.html` in your web browser:
    - **Option 1:** Double-click the `index.html` file
    - **Option 2:** Right-click and select "Open with" your preferred browser
-   - **Option 3:** Use a local server (optional):
-
-     ```bash
-     # Using Python 3
-     python -m http.server 8000
-     
-     # Using Node.js (with http-server)
-     npx http-server
-     
-     # Using PHP
-     php -S localhost:8000
-     ```
-
-     Then navigate to `http://localhost:8000` in your browser.
 
 ### Usage
 
